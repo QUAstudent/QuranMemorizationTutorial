@@ -21,6 +21,7 @@ This milestone should last anywhere between 1.5 to 3 years depending on memoriza
 
 *	Memorize
     *	Should be no less than __half a new page__ and no more than __1 new page per day__.
+    *	__Listening__ before reading/memorization helps hearing the right pronounciation.
 *	Review
     *	Should start at no less than __2 pages__ of previously memorized (but maybe forgotten) and recited pages.
 *	Recite
