@@ -24,6 +24,7 @@ This milestone should last anywhere between 1.5 to 3 years depending on memoriza
     *	__Listening__ before reading/memorization helps hearing the right pronounciation.
 *	Review
     *	Should start at no less than __2 pages__ of previously memorized (but maybe forgotten) and recited pages.
+    *	Note that, if you couldn't finish the revision pages on time, __try again the next day__ but don't do partial revision (maintain a consistent monotonically increasing window size).
 *	Recite
     *	Should be to __a friend or peer__ over a call that is scheduled at a fixed time ideally every day. 
     *	This call should be run like a __scrum__ in project management and should be __chitchat-free__.
@@ -41,7 +42,9 @@ The mechanics of the algorithm rely on a variation of spaced repetition memoriza
 *	Day 11: memorize new page 10. Review page 3 and page 4.
 *	…
 *	Day 18: memorize new page 18. Review page 17 and page 18 #-- crossover 1 (increment the review pages by 1)
-*	Day 19: memorize new page 19. Review page 1,2, and 3. #-- now we review 3 pages every day.
+*	Day 19: memorize new page 19. Review page 1,2, and 3. #-- now we review 3 pages every day but say that you really struggled with the 3 pages and your memorization was weak/non-acceptable especially on the last page (stops, stuttering, and mistakes).
+*	Day 20: memorize new page 20. Redo the review page 1,2, and 3. #-- Retry the revision from yesterday since we couldn't do all the revision pages well.
+*	Day 21: memorize new page 21. Review page 4,5, and 6 #-- Continue revision normally
 *	…
  
 The execution goes as following:
