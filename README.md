@@ -63,11 +63,10 @@ The execution goes as following:
 At this point now that you have finished preprocessing, you are now __ready__ to actually __start__ memorizing the Quran. The goal of this milestone is to __minimize the time it takes to review the entire Quran from memory__. In other words, we would like to maximize the length of the daily review pages now that there are no new pages to memorize/preprocess. Assuming that maximum review window length from previous milestone was 10 pages per day (60 days to review the entire Quran from memory) we demonstrate __the doubling algorithm__ with the following example:
 
 *	Day 1: review pages 1-10.
-*	Day 2: review pages 11-20.
-*	Day 3: review pages 1-20 #-- first even doubling
-*	Day 4: review pages 11-30
-*	Day 5: review pages 21-40
-*	Day 6: ...
+*	Day 2: review pages 11-20. Stitch to them yesterday's 1-10. Make them 1-20. #-- first even doubling.
+*	Day 3: review pages 11-30
+*	Day 4: review pages 21-40
+*	Day 5: ...
 
 Using this method, we train our memory to __double the number of pages we can review in 1 day__. We repeat the doubling until we converge to __100 review pages per day__. Once we reach that point and stabilize, we should maintain the review of the entire Quran every 6 days at that pace and move on to the next milestone.
 
